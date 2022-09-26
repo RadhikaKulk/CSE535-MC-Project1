@@ -12,7 +12,7 @@ drawable ic_launcher_background
 drawable ic_launcher_foreground
 id categorySpinner
 id imageButton
-id spinner
+id textView
 id textView2
 id uploadImage
 layout activity_main
